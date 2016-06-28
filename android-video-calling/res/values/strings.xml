@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SPARbot</string>
+    <string name="logged_as">Logged in as: </string>
+    <string name="bot_ip">Enter SPARbot IP</string>
+    <string name="stop_service">Stop service</string>
+    <string name="sample_user">Sample user</string>
+    <string name="incoming_call">Connecting...</string>
+    <string name="connected">Connected</string>
+
+</resources>

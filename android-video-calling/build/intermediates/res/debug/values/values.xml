@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Study/CMPE295%20Master%20Project/android-video-calling/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="greyish">#fff2f1f2</color>
+    <color name="off_white">#fffafafa</color>
+    <color name="sinch_purple">#ff63029d</color>
+    <color name="spar_blue">#0462AC</color>
+    <!-- From: file:/C:/Study/CMPE295%20Master%20Project/android-video-calling/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SPARbot</string>
+    <string name="bot_ip">Enter SPARbot IP</string>
+    <string name="connected">Connected</string>
+    <string name="incoming_call">Connecting...</string>
+    <string name="logged_as">Logged in as: </string>
+    <string name="sample_user">Sample user</string>
+    <string name="stop_service">Stop service</string>
+    <!-- From: file:/C:/Study/CMPE295%20Master%20Project/android-video-calling/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

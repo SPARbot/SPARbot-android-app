@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

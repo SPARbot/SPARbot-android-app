@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Study\CMPE295 Master Project\android-video-calling\libs\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6e60b87f7f39d11d3cf86c07de72f62ef45c6f50">
+        <dex dex="C:\Study\CMPE295 Master Project\android-video-calling\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT-8b6e82dba20eb203e2bc87948eb0b2d7ed809d0e.jar" />
+    </item>
+
+</items>

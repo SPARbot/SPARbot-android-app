@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@drawable/login_pressed_blue"/>
+    <item android:state_pressed="false"
+        android:drawable="@drawable/login_normal_blue"/>
+    <item android:drawable="@drawable/login_normal_blue"/>
+</selector><!-- From: file:/C:/Study/CMPE295%20Master%20Project/android-video-calling/res/drawable/button_login.xml -->
