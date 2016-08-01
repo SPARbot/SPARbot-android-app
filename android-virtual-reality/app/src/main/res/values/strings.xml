@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SPARbot</string>
+    <string name="submit">OK</string>
+    <string name="default_url">192.168.0.106</string>
+    <string name="enter">Enter into VR Experience</string>
+    <string name="enterIP">Enter IP of Raspberry PI</string>
+</resources>
