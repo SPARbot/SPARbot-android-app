@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidWorkspace\\SPARbot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config.xml",
+        "source": "C:\\AndroidWorkspace\\SPARbot\\app\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "C:\\AndroidWorkspace\\SPARbot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidWorkspace\\SPARbot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidWorkspace\\SPARbot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "C:\\AndroidWorkspace\\SPARbot\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\AndroidWorkspace\\SPARbot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_ui.xml",
+        "source": "C:\\AndroidWorkspace\\SPARbot\\app\\src\\main\\res\\layout\\common_ui.xml"
+    }
+]

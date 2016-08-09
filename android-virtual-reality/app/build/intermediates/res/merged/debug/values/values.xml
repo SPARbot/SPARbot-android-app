@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <string name="app_name">SPARbot</string>
+    <string name="default_url">192.168.0.106</string>
+    <string name="enter">Enter into VR Experience</string>
+    <string name="enterIP">Enter IP of Raspberry PI</string>
+    <string name="submit">OK</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="common_button_done">
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">2dp</item>
+    </style>
+    <style name="common_text_put_on_goggles">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
