@@ -24,5 +24,5 @@ Android application to provide VR experience to the user. This application commu
 
 3) Press OK button and the camera feed from the RasPi 3 integrated camera is visible on the application.
 
-4) The steroscopic video is available on the application and when the user pulls the trigger of the VR Goggles, The camera moves with respect to the movement of the uer's head.
+4) The steroscopic video is available on the application and when the user pulls the trigger of the VR Goggles, The camera moves with respect to the movement of the user's head.
 
